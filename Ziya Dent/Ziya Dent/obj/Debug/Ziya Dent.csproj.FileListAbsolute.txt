@@ -1,0 +1,20 @@
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Ziya Dent.exe.config
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Ziya Dent.exe
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Ziya Dent.pdb
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Bunifu.Licensing.dll
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Guna.UI2.dll
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.csproj.AssemblyReference.cache
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Properties.Resources.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.csproj.GenerateResource.cache
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.csproj.CopyComplete
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.exe
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya Dent.pdb
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Anasayfa.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Login.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Hasta.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Randevu.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Reçeteler.resources
+C:\Users\harun\source\repos\Ziya Dent\Ziya Dent\obj\Debug\Ziya_Dent.Tedavi.resources
